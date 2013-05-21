@@ -6,7 +6,7 @@
 
 
 	<scm>
-		<developerConnection>scm:git:ssh://github.com/boyone/maven-release.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/boyone/maven-release.git</developerConnection>
 
 	  <tag>maven-release-0.9</tag>
   </scm>
